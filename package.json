@@ -8,5 +8,10 @@
   },
   "keywords": ["discordianism", "eris", "23", "religion"],
   "author": "Volker Wieban",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/hpcodecraft/pentabarf",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hpcodecraft/pentabarf.git"
+  }
 }
