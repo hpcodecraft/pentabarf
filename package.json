@@ -1,12 +1,17 @@
 {
   "name": "pentabarf",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The five Discordian commandments",
   "main": "pentabarf.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["discordianism", "eris", "23", "religion"],
+  "keywords": [
+    "discordianism",
+    "eris",
+    "23",
+    "religion"
+  ],
   "author": "Volker Wieban",
   "license": "MIT",
   "homepage": "https://github.com/hpcodecraft/pentabarf",
