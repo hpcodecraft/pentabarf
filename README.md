@@ -1,4 +1,4 @@
 # Pentabarf
 
     var pentabarf = require('pentabarf');
-    pentabarf();
+    console.log(pentabarf());
